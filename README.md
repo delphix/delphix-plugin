@@ -8,7 +8,7 @@ The Delphix Plugin allows Jenkins to connect to multiple Delphix Engines and exe
 
 #### Table of Contents
 1.  [Description](#description)
-2.  [Installation](#installation)
+2.  [Installation](#installation) 
 3.  [Delphix Engine Requirements](#requirements)
 4.  [Usage](#usage)
 5.  [Links](#links)
